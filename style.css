@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;
+}
+div{
+    background-color: yellow;
+    height: 250px;
+    width: 300px;
+    padding: 10px;
+}
+p{
+    color: blue;
+    font-weight: 400;
+    font-size: 20px;
+}
